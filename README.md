@@ -5,12 +5,17 @@
 - 📫 How to reach me: masyurafannir@gmail.com
 
 ### Github Statistic
-<p align="left">
-  <a href="https://github.com/masyuraC7">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=masyuraC7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=masyuraC7&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=masyuraC7&show_icons=true&include_all_commits=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=masyuraC7&show_icons=true&include_all_commits=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=masyuraC7&show_icons=true" />
+</picture>
 
 <!--
 **masyuraC7/masyuraC7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

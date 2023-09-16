@@ -7,10 +7,10 @@
 ### GitHub Statistic
 <p align="left">
   <a href="https://github.com/masyuraC7">
-    <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=masyuraC7&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&custom_title=My&nbsp;GitHub&nbsp;Stats" />
+    <img height=170em align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=masyuraC7&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&custom_title=My&nbsp;GitHub&nbsp;Stats" />
   </a>
   <a href="https://github.com/masyuraC7">
-    <img height=170em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masyuraC7&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+    <img height=170em align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=masyuraC7&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
   </a>
 </p>
 

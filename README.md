@@ -1,7 +1,8 @@
 ### Hi 👋, I'm @masyuraC7
 
-- 👀 I’m interested in Mobile Development and Website Development
-- 🌱 I’m currently learning Mobile Development Path at Bangkit Academy
+- 📚 I'm currently studying at <b>UPN "Veteran" Jawa Timur University</b> majoring in <b>Informatics Engineering.</b>
+- 👀 I’m interested in <b>Mobile Development</b> and <b>Website Development</b>
+- 🌱 I’m currently learning <b>Mobile Development Path</b> at <b>Bangkit Academy</b>
 - 📫 How to reach me: masyurafannir@gmail.com
 
 ### GitHub Statistic

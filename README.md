@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning <b>Artificial Intelligence</b> at <b>Orbit Future Academy</b>
 - ✨ I graduated from the <b>Bangkit Academy 2023</b> on the <b>Mobile Development</b> learning path
 - 📫 How to reach me:
-<a href="https://linktr.ee/masyura.fr">linktr.ee/masyura.fr</a>
+<a href="https://linktr.ee/masyura.fr" target="blank">linktr.ee/masyura.fr</a>
 
 ### GitHub Statistic
 <p align="left">
